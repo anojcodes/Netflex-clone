@@ -19,7 +19,7 @@ It replicates the Netflix landing page design with responsive layout.
 ---
 
 ## 📸 Screenshot
-(![Netflix Clone Screenshot](https://github.com/AnojSathe/Netflex-clone/blob/main/screenshot.png)
+(![Netflix Clone Screenshot](<img width="1920" height="1020" alt="screenshot" src="https://github.com/user-attachments/assets/1666e241-a1c7-4e05-8c4b-b656591db470" />)
 )
 
 ---
@@ -32,5 +32,5 @@ It replicates the Netflix landing page design with responsive layout.
 
 ## 👨‍💻 Author
 - **Anoj Sathe**  
-- [GitHub Profile](https://github.com/AnojSathe)
+- [GitHub Profile](https://github.com/Anojcodes)
 
